@@ -1,0 +1,19 @@
+.filter-box {
+    border: 1px solid #0f6ab4;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+.filter-box > h4 {
+    border-bottom: 1px solid #0f6ab4;
+    padding: 10px;
+    margin: 0;
+}
+.filter-box > form {
+    padding: 25px 15px 15px;
+    display: none;
+}
+.show-filtr {
+    color: #00AFF0;
+    font-size: 13px;
+    cursor: pointer;
+}
